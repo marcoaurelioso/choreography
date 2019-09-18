@@ -17,7 +17,7 @@ docker-compose logs --f
 winpty docker-compose exec kafka kafka-topics --list --zookeeper zookeeper:2181
 ### Criar topico
 winpty docker-compose exec kafka kafka-topics --create --topic orderrequests --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:2181
-### Se quiser confirmar se o Topic foi criado, execute o comando abaixo:
+### Se quiser confirmar se o Topic foi criado
 winpty docker-compose exec kafka kafka-topics --describe --topic orderrequests --zookeeper zookeeper:2181
 ### Teste produzindo mensagem
 winpty docker-compose exec kafka bash -c "seq 100 | kafka-console-producer --request-required-acks 1 --broker-list localhost:29092 --topic meu-topico-legal && echo 'Produced 100 messages.'"
