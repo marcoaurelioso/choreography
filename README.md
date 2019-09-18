@@ -3,7 +3,7 @@ choreography saga demo
 
 
 ## Kafka e Zookeeper (docker-compose)
-### Subir os containers
+#### Subir os containers
 docker-compose up -d
 ### Logs do zookeeper
 docker-compose logs zookeeper | grep -i binding
