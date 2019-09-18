@@ -5,13 +5,15 @@ choreography saga demo
 ## Kafka e Zookeeper (docker-compose)
 ### Subir os containers
 docker-compose up -d
+### Parar e remover os containers
+docker-compose down
 ### Logs do zookeeper
 docker-compose logs zookeeper | grep -i binding
 ### Analisar saude do kafka
 docker-compose logs kafka | grep -i started
 ### Analisar logs do kafka
 docker-compose logs --f
-### Listar topicos (utilize winpty caso utilize windows com terminal bash)
+### Listar topicos (OBS: utilize winpty caso utilize windows com terminal bash)
 winpty docker-compose exec kafka kafka-topics --list --zookeeper zookeeper:2181
 ### Criar topico
 winpty docker-compose exec kafka kafka-topics --create --topic orderrequests --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:2181
