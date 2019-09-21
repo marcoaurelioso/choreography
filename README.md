@@ -6,7 +6,7 @@ choreography saga demo
 ### Subir os containers
 `docker-compose up -d`
 ### Parar e remover os containers
-docker-compose down
+    docker-compose down
 ### Logs do zookeeper
 docker-compose logs zookeeper | grep -i binding
 ### Analisar saude do kafka
