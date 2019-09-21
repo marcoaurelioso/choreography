@@ -4,7 +4,7 @@ choreography saga demo
 
 ## Comandos Kafka e Zookeeper (docker-compose)
 ### Subir os containers
-docker-compose up -d
+`docker-compose up -d`
 ### Parar e remover os containers
 docker-compose down
 ### Logs do zookeeper
