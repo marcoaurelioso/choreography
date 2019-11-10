@@ -1,6 +1,10 @@
 # choreography
 choreography saga demo
 
+Para executar é necessário ter instalado:
+.net core
+docker 
+
 
 ## Comandos Kafka e Zookeeper (docker-compose)
 ### Subir os containers
