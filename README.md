@@ -1,9 +1,14 @@
 # choreography
 choreography saga demo
 
+### Como executar?
 Para executar é necessário ter instalado:
-.net core
-docker 
+* .net core
+* docker 
+
+1. Baixar o projeto (clone)
+2. Utilizar "docker-compose up -d" na pasta raiz, assim vai baixar as imagens e executar (kafka, zookeeper)
+3. Executar dotnet run em cada pasta (order, flight, payment, etc)
 
 
 ## Comandos Kafka e Zookeeper (docker-compose)
