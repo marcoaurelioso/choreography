@@ -1,0 +1,11 @@
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\bin\Debug\netcoreapp2.1\payment.service.deps.json
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\bin\Debug\netcoreapp2.1\payment.service.runtimeconfig.json
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\bin\Debug\netcoreapp2.1\payment.service.runtimeconfig.dev.json
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\bin\Debug\netcoreapp2.1\payment.service.dll
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\bin\Debug\netcoreapp2.1\payment.service.pdb
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\obj\Debug\netcoreapp2.1\payment.service.csprojAssemblyReference.cache
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\obj\Debug\netcoreapp2.1\payment.service.csproj.CoreCompileInputs.cache
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\obj\Debug\netcoreapp2.1\payment.service.AssemblyInfoInputs.cache
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\obj\Debug\netcoreapp2.1\payment.service.AssemblyInfo.cs
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\obj\Debug\netcoreapp2.1\payment.service.dll
+C:\Users\marco.oliveira\TDC2019\choreography\payment\payment.service\obj\Debug\netcoreapp2.1\payment.service.pdb

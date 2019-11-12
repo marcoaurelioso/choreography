@@ -1,0 +1,14 @@
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\bin\Debug\netcoreapp2.2\order.webapi.deps.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\bin\Debug\netcoreapp2.2\order.webapi.runtimeconfig.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\bin\Debug\netcoreapp2.2\order.webapi.runtimeconfig.dev.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\bin\Debug\netcoreapp2.2\order.webapi.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.csproj.CoreCompileInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.RazorAssemblyInfo.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.RazorAssemblyInfo.cs
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.AssemblyInfoInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.AssemblyInfo.cs
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.RazorTargetAssemblyInfo.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\bin\Debug\netcoreapp2.2\order.webapi.pdb
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.pdb
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.webapi\obj\Debug\netcoreapp2.2\order.webapi.csprojAssemblyReference.cache

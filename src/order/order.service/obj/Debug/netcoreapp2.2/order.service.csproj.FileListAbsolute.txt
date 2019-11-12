@@ -1,0 +1,10 @@
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\bin\Debug\netcoreapp2.2\order.service.deps.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\bin\Debug\netcoreapp2.2\order.service.runtimeconfig.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\bin\Debug\netcoreapp2.2\order.service.runtimeconfig.dev.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\bin\Debug\netcoreapp2.2\order.service.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\bin\Debug\netcoreapp2.2\order.service.pdb
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\obj\Debug\netcoreapp2.2\order.service.csproj.CoreCompileInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\obj\Debug\netcoreapp2.2\order.service.AssemblyInfoInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\obj\Debug\netcoreapp2.2\order.service.AssemblyInfo.cs
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\obj\Debug\netcoreapp2.2\order.service.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\order\order.service\obj\Debug\netcoreapp2.2\order.service.pdb

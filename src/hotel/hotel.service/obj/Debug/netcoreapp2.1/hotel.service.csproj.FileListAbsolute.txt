@@ -1,0 +1,11 @@
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.1\hotel.service.deps.json
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.1\hotel.service.runtimeconfig.json
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.1\hotel.service.runtimeconfig.dev.json
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.1\hotel.service.dll
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.1\hotel.service.pdb
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.1\hotel.service.csprojAssemblyReference.cache
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.1\hotel.service.csproj.CoreCompileInputs.cache
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.1\hotel.service.AssemblyInfoInputs.cache
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.1\hotel.service.AssemblyInfo.cs
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.1\hotel.service.dll
+C:\Users\marco.oliveira\TDC2019\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.1\hotel.service.pdb

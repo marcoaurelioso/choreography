@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-flight", "2-flight", "{3CD50F0C-5ADF-4B4E-991C-B821B9C5C476}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-hotel", "1-hotel", "{A399BF9D-9AF5-48BD-999D-EB6773A0E290}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-order", "0-order", "{5821D374-E047-4406-A93D-CE17E90274B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-payment", "3-payment", "{BCB663AF-835C-450D-9F21-1865F6FE20B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fligth.service", "flight\fligth.service\fligth.service.csproj", "{909BB76D-8512-41ED-A51C-5A1A2CAAE244}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel.service", "hotel\hotel.service\hotel.service.csproj", "{26035D9E-40E9-43CA-9AB8-7F3B5207DF3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "order.service", "order\order.service\order.service.csproj", "{F479BB9C-0F86-4273-BFB5-E50590FD86DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "payment.service", "payment\payment.service\payment.service.csproj", "{12B35D37-16BD-47DF-B2A3-F61C57F80A82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D14DDE69-4ADF-49EC-8024-5BA171F853AD}"
+	ProjectSection(SolutionItems) = preProject
+		Commands Compose Kafka Zookeeper.txt = Commands Compose Kafka Zookeeper.txt
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "order.webapi", "order\order.webapi\order.webapi.csproj", "{D173DC59-FF3B-4E4F-98C0-5609039C2983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909BB76D-8512-41ED-A51C-5A1A2CAAE244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909BB76D-8512-41ED-A51C-5A1A2CAAE244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909BB76D-8512-41ED-A51C-5A1A2CAAE244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909BB76D-8512-41ED-A51C-5A1A2CAAE244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26035D9E-40E9-43CA-9AB8-7F3B5207DF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26035D9E-40E9-43CA-9AB8-7F3B5207DF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26035D9E-40E9-43CA-9AB8-7F3B5207DF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26035D9E-40E9-43CA-9AB8-7F3B5207DF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F479BB9C-0F86-4273-BFB5-E50590FD86DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F479BB9C-0F86-4273-BFB5-E50590FD86DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F479BB9C-0F86-4273-BFB5-E50590FD86DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F479BB9C-0F86-4273-BFB5-E50590FD86DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B35D37-16BD-47DF-B2A3-F61C57F80A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B35D37-16BD-47DF-B2A3-F61C57F80A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B35D37-16BD-47DF-B2A3-F61C57F80A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B35D37-16BD-47DF-B2A3-F61C57F80A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D173DC59-FF3B-4E4F-98C0-5609039C2983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D173DC59-FF3B-4E4F-98C0-5609039C2983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D173DC59-FF3B-4E4F-98C0-5609039C2983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D173DC59-FF3B-4E4F-98C0-5609039C2983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{909BB76D-8512-41ED-A51C-5A1A2CAAE244} = {3CD50F0C-5ADF-4B4E-991C-B821B9C5C476}
+		{26035D9E-40E9-43CA-9AB8-7F3B5207DF3F} = {A399BF9D-9AF5-48BD-999D-EB6773A0E290}
+		{F479BB9C-0F86-4273-BFB5-E50590FD86DD} = {5821D374-E047-4406-A93D-CE17E90274B3}
+		{12B35D37-16BD-47DF-B2A3-F61C57F80A82} = {BCB663AF-835C-450D-9F21-1865F6FE20B5}
+		{D173DC59-FF3B-4E4F-98C0-5609039C2983} = {5821D374-E047-4406-A93D-CE17E90274B3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F00DF48-92FC-4EF3-B5BD-97307B26FC82}
+	EndGlobalSection
+EndGlobal

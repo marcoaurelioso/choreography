@@ -1,0 +1,12 @@
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.2\hotel.service.csproj.CoreCompileInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.2\hotel.service.AssemblyInfoInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.2\hotel.service.AssemblyInfo.cs
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.2\hotel.service.deps.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.2\hotel.service.runtimeconfig.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.2\hotel.service.runtimeconfig.dev.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.2\hotel.service.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.2\hotel.service.pdb
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.2\hotel.service.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.2\hotel.service.pdb
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\hotel\hotel.service\obj\Debug\netcoreapp2.2\hotel.service.csprojAssemblyReference.cache

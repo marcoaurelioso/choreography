@@ -1,0 +1,11 @@
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\bin\Debug\netcoreapp2.1\fligth.service.deps.json
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\bin\Debug\netcoreapp2.1\fligth.service.runtimeconfig.json
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\bin\Debug\netcoreapp2.1\fligth.service.runtimeconfig.dev.json
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\bin\Debug\netcoreapp2.1\fligth.service.dll
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\bin\Debug\netcoreapp2.1\fligth.service.pdb
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\obj\Debug\netcoreapp2.1\fligth.service.csprojAssemblyReference.cache
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\obj\Debug\netcoreapp2.1\fligth.service.csproj.CoreCompileInputs.cache
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\obj\Debug\netcoreapp2.1\fligth.service.AssemblyInfoInputs.cache
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\obj\Debug\netcoreapp2.1\fligth.service.AssemblyInfo.cs
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\obj\Debug\netcoreapp2.1\fligth.service.dll
+C:\Users\marco.oliveira\TDC2019\choreography\flight\fligth.service\obj\Debug\netcoreapp2.1\fligth.service.pdb
