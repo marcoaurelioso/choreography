@@ -1309,11 +1309,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\payment\\payment.service\\payment.service.csproj",
+      "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\payment\\payment.service\\payment.service.csproj",
       "projectName": "payment.service",
-      "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\payment\\payment.service\\payment.service.csproj",
+      "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\payment\\payment.service\\payment.service.csproj",
       "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\payment\\payment.service\\obj\\",
+      "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\payment\\payment.service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

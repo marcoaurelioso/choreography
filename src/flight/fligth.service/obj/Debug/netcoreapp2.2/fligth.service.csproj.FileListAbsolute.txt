@@ -8,3 +8,13 @@ D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\flight\fli
 D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\flight\fligth.service\bin\Debug\netcoreapp2.2\fligth.service.pdb
 D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\flight\fligth.service\obj\Debug\netcoreapp2.2\fligth.service.dll
 D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\flight\fligth.service\obj\Debug\netcoreapp2.2\fligth.service.pdb
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\bin\Debug\netcoreapp2.2\fligth.service.deps.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\bin\Debug\netcoreapp2.2\fligth.service.runtimeconfig.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\bin\Debug\netcoreapp2.2\fligth.service.runtimeconfig.dev.json
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\bin\Debug\netcoreapp2.2\fligth.service.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\bin\Debug\netcoreapp2.2\fligth.service.pdb
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\obj\Debug\netcoreapp2.2\fligth.service.csproj.CoreCompileInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\obj\Debug\netcoreapp2.2\fligth.service.AssemblyInfoInputs.cache
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\obj\Debug\netcoreapp2.2\fligth.service.AssemblyInfo.cs
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\obj\Debug\netcoreapp2.2\fligth.service.dll
+D:\Google Drive\MarcoOliveira\Palestras\TDC_SP_2019\Demo\choreography\src\flight\fligth.service\obj\Debug\netcoreapp2.2\fligth.service.pdb

@@ -57,6 +57,11 @@ namespace order.webapi.Controllers
             orderModel.Status = "Pending";
             await _repo.Create(orderModel);
 
+            //var orderItem = _repo.GetOrder(orderModel.Id).Result;
+            //orderItem.Status = "Processing";
+            //var resultUpdate = _repo.Update(orderItem);
+
+
             //--Publish Event/Message
             OrderRequestEvent orderRequestEvent = new OrderRequestEvent();
             orderRequestEvent.EventId = Guid.NewGuid();

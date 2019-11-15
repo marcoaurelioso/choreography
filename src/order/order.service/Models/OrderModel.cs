@@ -1,11 +1,11 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using Newtonsoft.Json;
 
-namespace order.webapi.Models
+namespace order.service.Models
 {
     using MongoDB.Bson;
     using MongoDB.Bson.Serialization.Attributes;
+    using Newtonsoft.Json;
     using System.Runtime.Serialization;
 
     public class OrderModel

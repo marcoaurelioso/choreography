@@ -6419,11 +6419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\hotel\\hotel.service\\hotel.service.csproj",
+      "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\hotel\\hotel.service\\hotel.service.csproj",
       "projectName": "hotel.service",
-      "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\hotel\\hotel.service\\hotel.service.csproj",
+      "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\hotel\\hotel.service\\hotel.service.csproj",
       "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\hotel\\hotel.service\\obj\\",
+      "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\hotel\\hotel.service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

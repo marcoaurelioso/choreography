@@ -1,5 +1,6 @@
 ﻿using Confluent.Kafka;
 using Microsoft.Extensions.Configuration;
+using order.service.Models;
 using order.service.Services;
 using System;
 using System.IO;
@@ -15,6 +16,8 @@ namespace order.service
         private static bool consumer_enableautocommit;
         //private static ArrayList myEventsAsConsumer = new ArrayList() { "HotelRequestFailedEvent", "PaymentRequestSucceedEvent", "PaymentRequestFailedEvent" };
 
+        public static Config.MongoDBConfig mongoDBconfig;
+
         static void Main(string[] args)
         {
             Console.WriteLine("Order Service - Started");
@@ -25,6 +28,19 @@ namespace order.service
                   .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
 
             IConfigurationRoot configuration = builder.Build();
+
+            mongoDBconfig = new Config.MongoDBConfig();
+            mongoDBconfig.Database = configuration.GetSection("MongoDB:Database").Value;
+            mongoDBconfig.Host = configuration.GetSection("MongoDB:Host").Value;
+            mongoDBconfig.Port = int.Parse(configuration.GetSection("MongoDB:Port").Value);
+            mongoDBconfig.User = configuration.GetSection("MongoDB:User").Value;
+            mongoDBconfig.Password = configuration.GetSection("MongoDB:Password").Value;
+
+            //var orderContext = new OrderContext(Program.mongoDBconfig);
+            //var repo = new OrderRepository(orderContext);
+            //var orderItem = repo.GetOrder(2).Result;
+            //orderItem.Status = "Succeeded";
+            //var resultUpdate = repo.Update(orderItem);
 
             consumer_bootstrapservers = configuration.GetSection("consumer:bootstrapservers").Value;
             consumer_groupid = configuration.GetSection("consumer:groupId").Value;

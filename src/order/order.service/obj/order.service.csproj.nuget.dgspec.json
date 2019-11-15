@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.service\\order.service.csproj": {}
+    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.service\\order.service.csproj": {}
   },
   "projects": {
-    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.service\\order.service.csproj": {
+    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.service\\order.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.service\\order.service.csproj",
+        "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.service\\order.service.csproj",
         "projectName": "order.service",
-        "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.service\\order.service.csproj",
+        "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.service\\order.service.csproj",
         "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-        "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.service\\obj\\",
+        "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.3, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

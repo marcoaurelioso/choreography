@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.webapi\\order.webapi.csproj": {}
+    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.webapi\\order.webapi.csproj": {}
   },
   "projects": {
-    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.webapi\\order.webapi.csproj": {
+    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.webapi\\order.webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.webapi\\order.webapi.csproj",
+        "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.webapi\\order.webapi.csproj",
         "projectName": "order.webapi",
-        "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.webapi\\order.webapi.csproj",
+        "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.webapi\\order.webapi.csproj",
         "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-        "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\order\\order.webapi\\obj\\",
+        "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\order\\order.webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

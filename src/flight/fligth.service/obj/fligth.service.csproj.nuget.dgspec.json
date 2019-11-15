@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\flight\\fligth.service\\fligth.service.csproj": {}
+    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\flight\\fligth.service\\fligth.service.csproj": {}
   },
   "projects": {
-    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\flight\\fligth.service\\fligth.service.csproj": {
+    "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\flight\\fligth.service\\fligth.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\flight\\fligth.service\\fligth.service.csproj",
+        "projectUniqueName": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\flight\\fligth.service\\fligth.service.csproj",
         "projectName": "fligth.service",
-        "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\flight\\fligth.service\\fligth.service.csproj",
+        "projectPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\flight\\fligth.service\\fligth.service.csproj",
         "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-        "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\flight\\fligth.service\\obj\\",
+        "outputPath": "D:\\Google Drive\\MarcoOliveira\\Palestras\\TDC_SP_2019\\Demo\\choreography\\src\\flight\\fligth.service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
