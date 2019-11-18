@@ -25,37 +25,37 @@ Após realizar o "docker-compose up -d" na raiz da pasta src, e executar os proj
 ## Comandos Kafka e Zookeeper (docker-compose)
 Abaixo alguns comandos que podem ser utilizados nesta Demo para aprender mais sobre o Kafka, docker-compose e .net Core.
 ## Docker Compose
-### Subir os containers
+#### Subir os containers
     docker-compose up -d
-### Parar e remover os containers
+#### Parar e remover os containers
     docker-compose down
 ## Apache Kafka e Zookeeper
-### Logs do zookeeper
+#### Logs do zookeeper
     docker-compose logs zookeeper | grep -i binding
-### Analisar saude do kafka
+#### Analisar saude do kafka
     docker-compose logs kafka | grep -i started
-### Analisar logs do kafka
+#### Analisar logs do kafka
     docker-compose logs --f
-### Listar topicos (OBS: utilize winpty caso utilize windows com terminal bash)
+#### Listar topicos (OBS: utilize winpty caso utilize windows com terminal bash)
     winpty docker-compose exec kafka kafka-topics --list --zookeeper zookeeper:2181
-### Criar topico (OBS: utilize winpty caso utilize windows com terminal bash)
-    winpty docker-compose exec kafka kafka-topics --create --topic orderrequests --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:2181
-### Se quiser confirmar se o Topic foi criado  (OBS: utilize winpty caso utilize windows com terminal bash)
+#### Criar topico (OBS: utilize winpty caso utilize windows com terminal bash)
+    winpty docker-compose exec kafka kafka-topics --create --topic orderrequests --partitions 1 --replication-factor 1 --if-not-exists --zo3okeeper zookeeper:2181
+#### Se quiser confirmar se o Topic foi criado  (OBS: utilize winpty caso utilize windows com terminal bash)
     winpty docker-compose exec kafka kafka-topics --describe --topic orderrequests --zookeeper zookeeper:2181
-### Teste produzindo mensagem  (OBS: utilize winpty caso utilize windows com terminal bash)
+#### Teste produzindo mensagem  (OBS: utilize winpty caso utilize windows com terminal bash)
     winpty docker-compose exec kafka bash -c "seq 100 | kafka-console-producer --request-required-acks 1 --broker-list localhost:29092 --topic meu-topico-legal && echo 'Produced 100 messages.'"
-### Consumindo mensagens (OBS: utilize winpty caso utilize windows com terminal bash)
+#### Consumindo mensagens (OBS: utilize winpty caso utilize windows com terminal bash)
     winpty docker-compose exec kafka kafka-console-consumer --bootstrap-server localhost:29092 --topic orderrequests --from-beginning --max-messages 100
 ## .Net Core
-### Criar um novo aplicativo\projeto
+#### Criar um novo aplicativo\projeto
     dotnet new ... (escreva o tipo de projeto, ex console, webapi, webapp, mvc, etc)
-### Compilar um aplicativo\projeto
+#### Compilar um aplicativo\projeto
     dotnet build
-### Execucao projeto .netCore (acessar a pasta do projeto)
+#### Execucao projeto .netCore (acessar a pasta do projeto)
     dotnet run
-### Limpar saídas build
+#### Limpar saídas build
     dotnet clean
-### Executar os testes
+#### Executar os testes
     dotnet test
    
 
