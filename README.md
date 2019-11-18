@@ -1,4 +1,4 @@
-# choreography
+# Choreography
 choreography saga demo
 
 ### Sobre
@@ -6,7 +6,7 @@ Projeto para simular coreografia entre serviços utilizando Apache Kafka, MongoD
 Serão executados em docker: Apache Kafka, Zookeeper, Mongo e Mongo-Express (web-based admin interface)
 
 Nuget Package  
-Confluent.Kafka -> Confluent's .Net Client for Apache Kafka
+Confluent.Kafka -> *Confluent's .Net Client for Apache Kafka*
 
 ### Como executar?
 Para executar é necessário ter instalado:
